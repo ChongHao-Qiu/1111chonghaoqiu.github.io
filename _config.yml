@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Chonghao Qiu"
+title: "Your Name / Site Title"
 title_separator: "-"
 name: &name "Chonghao Qiu"
 description: &description "personal description"
-url: "https://chonghao-qiu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://chonghao-qiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # "/ChonghaoQiu" # the subpath of your site, e.g. "/blog"
 repository: "/ChonghaoQiu"
 
