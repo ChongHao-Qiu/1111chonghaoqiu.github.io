@@ -12,8 +12,8 @@ title: "Chonghao Qiu / Site Title"
 title_separator: "-"
 name: &name "Chonghao Qiu"
 description: &description "personal description"
-url: "https://chonghao-qiu.github.io/ChonghaoQiu"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "https://chonghao-qiu.github.io/ChonghaoQiu" # the subpath of your site, e.g. "/blog"
+url: "https://chonghao-qiu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/ChonghaoQiu" # the subpath of your site, e.g. "/blog"
 repository: "chonghao-qiu.github.io/ChonghaoQiu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
