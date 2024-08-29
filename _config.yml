@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Chonghao Qiu"
+title: "Chonghao Qiu / Home Page"
 title_separator: "-"
 name: &name "Chonghao Qiu"
 description: &description "personal description"
