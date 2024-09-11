@@ -21,7 +21,7 @@ repository: "/ChonghaoQiu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "QCH.jpg"
+  avatar: "profile.png"
   name: "Chonghao Qiu"
   pronouns: # example: "she/her"
   bio: "Short biography for the left-hand sidebar"
